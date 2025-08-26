@@ -62,7 +62,7 @@ coverage/
 # next.js
 /.next/
 /out/
-.gitignore
+
 # production
 /build
 
